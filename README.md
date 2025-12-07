@@ -48,14 +48,14 @@ It allows you to:
 ## 🖼️ Output Screenshots
 
 ### Breadth-First Search
-![BFS](screenshots/bfs.png)
+![BFS](bfs.png)
 
 ### Depth-First Search
-![DFS](screenshots/dfs.png)
+![DFS](dfs.png)
 
 ### Prim’s Minimum Spanning Tree
-![Prims](screenshots/prims.png)
+![Prims](prims.png)
 
 ### Kruskal’s Minimum Spanning Tree
-![Kruskal](screenshots/kruskal.png)
+![Kruskal](kruskal.png)
 
